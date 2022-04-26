@@ -1,0 +1,45 @@
+Folder PATH listing for volume OS
+Volume serial number is EA3D-F059
+C:.
+³   cek_login.php
+³   dbperpus2.sql
+³   file.png
+³   index.php
+³   koneksi.php
+³   login.php
+³   logout.php
+³   print.png
+³   style.css
+³   style_login.css
+³   tree.txt
+³   user-pass admin.txt
+³   
+ÃÄÄÄimages
+³       12134.png
+³       198309172005011002.jpg
+³       198309172005011003.jpg
+³       432432.jpg
+³       admin-no-photo.jpg
+³       AG003.JPG
+³       AG010.jpg
+³       AG010.png
+³       AG011.png
+³       IMG.jpg
+³       logo-perpustakaan3.png
+³       ww.jpg
+³       
+ÃÄÄÄpages
+³       anggota-asli.php
+³       anggota-edit.php
+³       anggota-input.php
+³       anggota.php
+³       anggota_backup.php
+³       beranda.php
+³       cetak.php
+³       cetak_kartu.php
+³       
+ÀÄÄÄproses
+        anggota-edit-proses.php
+        anggota-hapus.php
+        anggota-input-proses.php
+        
